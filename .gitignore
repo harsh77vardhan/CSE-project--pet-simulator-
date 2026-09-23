@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime save game database & persistent player data
+data/
+.data/
+*.json
+pet_save.json
+
+# Internal module backups & scratch files
+.backup_modules/
+scratch/
+*.log
+*.tmp
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
